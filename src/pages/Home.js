@@ -2,7 +2,6 @@ import React from 'react'
 import { IconButton, Link } from '@material-ui/core'
 import LinkedIn from '@material-ui/icons/LinkedIn'
 import GitHub from '@material-ui/icons/GitHub'
-import Email from '@material-ui/icons/Email'
 import '../styles/Home.css'
 
 function Home() {

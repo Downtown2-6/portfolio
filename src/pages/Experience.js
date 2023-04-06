@@ -16,7 +16,7 @@ function Experience() {
         <VerticalTimelineElement
           className='vertical-timeline-element--military'
           date='2005-2016'
-          iconStyle={{background: '#3e497a', color: '#fff'}}
+          iconStyle={{background: '#234F1E', color: '#fff'}}
           icon={<MilitaryIcon />}
         >
         <h3>U.S. Army</h3>
@@ -41,7 +41,7 @@ function Experience() {
         <VerticalTimelineElement
           className='vertical-timeline-element--work'
           date='2016-2021'
-          iconStyle={{background: '#3e497a', color: '#fff'}}
+          iconStyle={{background: '#FEDC56', color: '#fff'}}
           icon={<WorkIcon />}
         >
         <h3>Law Offices of Debbi Sabin Esq.</h3>
@@ -72,7 +72,7 @@ function Experience() {
         <VerticalTimelineElement
           className='vertical-timeline-element--work'
           date='2021-2023'
-          iconStyle={{background: '#3e497a', color: '#fff'}}
+          iconStyle={{background: '#FEDC56', color: '#fff'}}
           icon={<WorkIcon />}
         >
         <h3>Zones nFrastructure</h3>
@@ -110,7 +110,7 @@ function Experience() {
         <VerticalTimelineElement
           className='vertical-timeline-element--work'
           date='2023'
-          iconStyle={{background: '#3e497a', color: '#fff'}}
+          iconStyle={{background: '#FEDC56', color: '#fff'}}
           icon={<CelebrationIcon />}
         >
         <h3>Looking for Work</h3>
